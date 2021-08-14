@@ -1,0 +1,19 @@
+website address: codespots.000webhostapp.com
+PHP My Admin:-
+server---------
+host name: localhost
+user name: id17420638_root
+pass:''
+database---------
+db name: id17420638_codespotsdb
+pw: Pass@23102001
+
+
+
+links:
+https://codespots.000webhostapp.com/	:::project
+https://files.000webhost.com/ :::filemanager
+https://www.000webhost.com/members/website/codespots/database
+Questions:
+https://stackoverflow.com/questions/8923114/how-to-reset-auto-increment-in-mysql
+https://stackoverflow.com/questions/740358/reorder-reset-auto-increment-primary-key
